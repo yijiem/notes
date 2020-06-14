@@ -6,6 +6,7 @@
 
 1. [missing-semester](https://missing.csail.mit.edu/2020/)
 2. [Google Code Search](https://swtch.com/~rsc/regexp/regexp4.html) ([summary](./How_Google_Code_Search_Worked.md))
+3. [/dev/disk vs /dev/rdisk](https://superuser.com/questions/631592/why-is-dev-rdisk-about-20-times-faster-than-dev-disk-in-mac-os-x?newreg=da31fb489c5048bc9897964fc2670593)
 
 #### Security
 
